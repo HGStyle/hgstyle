@@ -3,8 +3,8 @@
 ## I've got some experience in programming
 
 Favorite games:
-  * Geometry Dash
-  * Minecraft
+  * Geometry Dash (2.207)
+  * Minecraft (1.17.1)
 
 Favorite programming languages:
   * Python (3.10 style, but on 3.11)
